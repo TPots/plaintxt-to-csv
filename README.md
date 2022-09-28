@@ -1,2 +1,3 @@
 # plaintxt-to-csv
-Convert a pprint plain text table to csv
+
+Script to convert white space aligned column plain text tables to csv.
